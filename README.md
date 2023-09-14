@@ -1,6 +1,12 @@
-# ESPHome [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
+# NOTICE: REPOSITORY MOVED
 
-[![ESPHome Logo](https://esphome.io/_images/logo-text.png)](https://esphome.io/)
+Please see the new repository: [libretiny-eu/libretiny-esphome](https://github.com/libretiny-eu/libretiny-esphome).
+
+LibreTiny is now officially supported by ESPHome, starting with version 2023.9.0.
+
+---
+
+## ESPHome [![Discord Chat](https://img.shields.io/discord/429907082951524364.svg)](https://discord.gg/KhAMKrd) [![GitHub release](https://img.shields.io/github/release/esphome/esphome.svg)](https://GitHub.com/esphome/esphome/releases/)
 
 **Documentation:** https://esphome.io/
 
